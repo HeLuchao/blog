@@ -78,7 +78,7 @@ module.exports = {
                     title: 'Vue',
                     collapsable: false,
                     children: [
-                        ['/frame/Vue/', 'Vue.js']
+                        ['/frame/Vue/', 'VuePress + GitHubPages构建技术博客']
                     ]
                 },
                 {
